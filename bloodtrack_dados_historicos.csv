@@ -1,0 +1,16 @@
+dia,traumas_emergencia,cirurgias_eletivas,bolsas_o_neg_consumidas,risco_falta_o_neg
+1,12,8,25,Critico
+2,15,10,32,Critico
+3,2,5,8,Normal
+4,4,6,10,Normal
+5,8,7,18,Alerta
+6,10,5,20,Alerta
+7,18,12,40,Critico
+8,3,4,7,Normal
+9,5,8,14,Alerta
+10,14,9,28,Critico
+11,1,5,6,Normal
+12,7,6,15,Alerta
+13,11,8,23,Critico
+14,2,3,5,Normal
+15,9,10,22,Critico
